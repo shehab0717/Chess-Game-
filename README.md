@@ -1,14 +1,9 @@
 # Chess-Game-
-This is a two players chess game.
+Two players chess game.
 
-#Developer:
--Shehab eldin Abdullah Ali
--Minia university
--shehab.abdullah12@gmail.com
+check out this [repo](https://github.com/4hab/chess-game) after applying OOP and Design patterns
 
-#tools:
--visual studio
--C# Programming language
+
 
 
 
